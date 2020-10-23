@@ -1,2 +1,2 @@
 # Redistributables
-This repository contains files that can be redistributed with permission. If you got a direct link to a raw file, please download it. You are allowed to navigate the repository without permission, however you may not download anything that you were not permitted to.
+This repository contains files that can be redistributed with permission. If you get a direct link to a file from the owner of the repository, you can download it and you hold the permission to do anything with it. You are allowed to navigate the repository without permission, however, you may not download anything that you were not permitted to. You are also allowed to redistribute the files that qualify as accessible or are under your rights.

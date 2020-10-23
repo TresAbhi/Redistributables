@@ -1,1 +1,2 @@
 # Redistributables
+This repository contains files that can be redistributed with permission. If you got a direct link to a raw file, please download it. You are allowed to navigate the repository without permission, however you may not download anything that you were not permitted to.

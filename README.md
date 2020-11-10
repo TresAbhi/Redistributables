@@ -1,2 +1,5 @@
-# Redistributables
-This repository contains files that can be redistributed with permission. If you get a direct link to a file from the owner of the repository, you can download it and you hold the permission to do anything with it. You are allowed to navigate the repository without permission, however, you may not download anything that you were not permitted to. You are also allowed to redistribute the files that qualify as accessible or are under your rights.
+# About
+This repository is owned by @CoolAbhi1290 ([website](https://coolabhi1290.github.io/)). This repository contents files that I want to deliver to certain people. All the files found in this repository can be downloaded without permission. I mean, that's the point of a repository!
+
+# Redistribution
+This repository is available to everybody. You can download its contents and iterate it for your personal use. You may not redistribute the contents. You get access to redistribute the contents if you meet the audience mentioned in the `/users/<SOME USER>/README.md` file.
